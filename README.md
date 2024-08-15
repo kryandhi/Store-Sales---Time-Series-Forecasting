@@ -1,1 +1,3 @@
 # Store-Sales---Time-Series-Forecasting
+
+This competition challenges participants to use time-series forecasting to predict store sales for Corporación Favorita, a major grocery retailer in Ecuador. The goal is to accurately forecast unit sales across thousands of items at various stores using data on dates, store and item details, promotions, and sales figures. Improved forecasting can reduce overstock and minimize customer dissatisfaction by ensuring the right products are available at the right time, highlighting the critical role of machine learning in optimizing inventory management for retailers.
